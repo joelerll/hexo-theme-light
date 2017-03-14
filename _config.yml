@@ -1,6 +1,6 @@
 menu:
   Home:
-  Archives: archives
+  Archivos: archives
 
 widgets:
 - search
@@ -10,19 +10,19 @@ widgets:
 excerpt_link: Read More
 
 twitter:
-  username:
+  username: joelerll95
   show_replies: false
   tweet_count: 5
 
 addthis:
-  enable: true
+  enable: false
   pubid:
   facebook: true
   twitter: true
-  google: true
-  pinterest: true
+  google: false
+  pinterest: false
 
-fancybox: true
+fancybox: false
 
 google_analytics:
 rss:
@@ -30,7 +30,7 @@ rss:
 comment_provider: facebook
 # Facebook comment
 facebook:
-  appid: 123456789012345
+  appid: 247425462386888
   comment_count: 5
   comment_width: 840
   comment_colorscheme: light
